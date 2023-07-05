@@ -3,3 +3,10 @@ div{
     padding: 20px;
     margin: 10px;
 }
+.god{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-right: 50px dotted black;
+}
